@@ -2,11 +2,11 @@
 
 ## UPDATE 2017.10.13
 ### author: cnkoala
-1.update the progress bar when downloading pics.
-2.number input instead of the text input. save you keyboard :)
-3.set the default option for save time
-4.add the function: advanced search
-5.remove the time class because not used.
+  1.update the progress bar when downloading pics.
+  2.number input instead of the text input. save you keyboard :)
+  3.set the default option for save time
+  4.add the function: advanced search
+  5.remove the time class because not used.
 
 ENJOY!
 
